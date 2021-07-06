@@ -1,4 +1,4 @@
-### Olá! Eu sou Wanderson Dutra 👋
+## Olá! Eu sou Wanderson Dutra 👋
 
 
 
@@ -25,16 +25,20 @@ Here are some ideas to get you started:
 
 
 
-<h2>Skills 💻 </h2> 
+## Skills 💻 
+<p align="center">
+ 
+ <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="rails" width="40" heigth="40" style="max-width:100%"></img> - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="rails" width="40" heigth="40" style="max-width:100%"></img> - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="rails" width="40" heigth="40" style="max-width:100%"></img> - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="40" heigth="40" style="max-width:100%"></img> -
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width="40" heigth="40" style="max-width:100%"></img>
-
-
-<h2>Contact 📱</h2>
+## Contact 📱
 
 
 <a href="https://www.linkedin.com/in/wanderson-dutra/" target="_black"> 
