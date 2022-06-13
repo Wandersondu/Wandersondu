@@ -1,5 +1,5 @@
 
- ## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Dutra 😎
+ ## Hi , I'm Dutra 😎
  - 💻 I´m a programming student!.
  - 🤓 I´m currently  learning HTML, CSS, JavaScript, Node.Js and React.
  - 🎯 I intend to be a Full Stock Web developer.
