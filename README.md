@@ -6,7 +6,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
-<div align="center">
+<div align="left">
   <img height="170"  src="https://github-readme-stats.vercel.app/api?username=wandersondu&show_icons=true&theme=vision-friendly-dark" > 
   <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondu&layout=compact&lang&theme=vision-friendly-dark" >
 </div>
@@ -30,7 +30,7 @@
 
 <br>
 
-<p align="center" style="background:yellow">
+<p align="center"  style="background:yellow">
   <a href="https://linkedin.com/in/wanderson-dutra" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-WandersonDutra-05122A?style=flat&logo=linkedin" alt="linkedin" />
   </a>
