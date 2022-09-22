@@ -31,7 +31,7 @@
 
 <p align="left" style="background:yellow">
   <a href="https://linkedin.com/in/wanderson-dutra" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Wanderson-Dutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-WandersonDutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/dutra_airsoft" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Dutra_airsoft-05122A?style=flat&logo=instagram" alt="instagram"/>
