@@ -6,9 +6,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wandersondu&show_icons=true&theme=vision-friendly-dark" > 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondu&layout=compact&lang&theme=vision-friendly-dark" >
+<div align="center">
+  <img height="170"  src="https://github-readme-stats.vercel.app/api?username=wandersondu&show_icons=true&theme=vision-friendly-dark" > 
+  <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondu&layout=compact&lang&theme=vision-friendly-dark" >
 </div>
 
 ## 🛠 &nbsp;Tech Stack
@@ -23,18 +23,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
 <br>
 
 ##  💬 &nbsp;Social Links
 
 <br>
 
-<p align="left" style="background:yellow">
+<p align="center" style="background:yellow">
   <a href="https://linkedin.com/in/wanderson-dutra" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-WandersonDutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-WandersonDutra-05122A?style=flat&logo=linkedin" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/dutra_airsoft" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-Dutra_airsoft-05122A?style=flat&logo=instagram" alt="instagram"/>
+   <img align="center" src="https://img.shields.io/badge/-Dutra_airsoft-05122A?style=flat&logo=instagram" alt="instagram" />
   </a>
   <a href="https://www.youtube.com/user/wandersonrochadutra " target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Dutra_airsoft -05122A?style=flat&logo=youtube" alt="youtube"/>
