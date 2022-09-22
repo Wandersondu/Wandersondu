@@ -34,7 +34,7 @@
     <img align="center" src="https://img.shields.io/badge/-Dutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/dutra_airsoft" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-dutra_g07-05122A?style=flat&logo=instagram" alt="instagram"/>
+   <img align="center" src="https://img.shields.io/badge/-Dutra_airsoft-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
   <a href="https://www.youtube.com/user/wandersonrochadutra " target="_blank">
    <img align="center" src="https://img.shields.io/badge/-dutra -05122A?style=flat&logo=youtube" alt="youtube"/>
